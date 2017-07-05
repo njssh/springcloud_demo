@@ -8,5 +8,6 @@
   <modules>
     <module>eureka-server</module>
     <module>compute-service</module>
+    <module>eureka-ribbon</module>
   </modules>
 </project>
