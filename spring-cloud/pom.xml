@@ -11,5 +11,6 @@
     <module>eureka-ribbon</module>
     <module>config-server</module>
     <module>config-client</module>
+    <module>route-zuul</module>
   </modules>
 </project>
